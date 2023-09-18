@@ -1,16 +1,18 @@
-# profilemate
+# profilemate - Mobile Application (HNGx Task 1)
 
-A new Flutter project.
+## Features
 
-## Getting Started
+- Simple UI
+- In-app web view to view personal GitHub profile page
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo: [Appetize Demo](https://appetize.io/app/udrxjzmrxobedvqpdqeo3tr52i?device=pixel4&osVersion=11.0&scale=75)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+View on desktop for best performance
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Packages Used
+
+[WebView](https://pub.dev/packages/webview_flutter)
+
+
+
