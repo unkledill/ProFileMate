@@ -12,8 +12,10 @@ View on desktop for best performance
 
 ## Packages Used
 
-- [WebView](https://pub.dev/packages/webview_flutter)
 - [Font Awesome Flutter](https://pub.dev/packages/font_awesome_flutter)
+- [WebView](https://pub.dev/packages/webview_flutter)
+
+
 
 
 
